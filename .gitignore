@@ -12,6 +12,10 @@ ENV/
 # Datasets (large files, store separately)
 dataset/
 data/
+*.rar
+*.zip
+*.7z
+*.tar.gz
 
 # IDE & OS files
 .vscode/

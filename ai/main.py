@@ -18,7 +18,7 @@ from fastapi import FastAPI, UploadFile, File, HTTPException
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-MODEL_PATH = BASE_DIR / "models" / "mobilenetv2_fruitquality_best.pth"
+MODEL_PATH = BASE_DIR / "models" / "mobilenetv2-fruit-v4.pth"
 
 
 # ============================================================
